@@ -28,7 +28,7 @@ My passion is to make useful digital products. I like to be creative with techno
 
 <br/>  
 
-## My Skill Set  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> 
+## My Skill Set  <span><img src= "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" /></span>
 
 ### Programing language  
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" align="left" height="32" width="" />  
@@ -91,7 +91,7 @@ My passion is to make useful digital products. I like to be creative with techno
 <br/>  
 
 
-## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40">
 
   <a href="https://www.linkedin.com/in/rahul-verma-210545190" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" height="40" width="" />  
