@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="44" viewBox="0 0 168 44" role="img" aria-labelledby="b-t">
+<title id="b-t">Portfolio</title>
+<style>
+  .mono{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+  .sans{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,system-ui,Helvetica,Arial,sans-serif}
+  .fade{opacity:0;animation:fade .6s ease-out forwards}
+  @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<defs>
+  <pattern id="b-dots" width="18" height="18" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.9" fill="#A8ADB5" opacity="0.09"/>
+  </pattern>
+  <radialGradient id="b-purple" cx="0.85" cy="0" r="0.75">
+    <stop offset="0" stop-color="#443B52" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#443B52" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="b-amber" cx="0.1" cy="1" r="0.7">
+    <stop offset="0" stop-color="#FF9A3D" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#FF9A3D" stop-opacity="0"/>
+  </radialGradient></defs>
+
+  <rect x="0.5" y="0.5" width="167" height="43" rx="10" fill="#171D27" stroke="#202630"/>
+  <rect x="0.5" y="0.5" width="167" height="43" rx="10" fill="url(#b-amber)"/>
+  <g transform="translate(26 22)"><circle cx="0" cy="0" r="8" fill="none" stroke="#FF9A3D" stroke-width="1.6"/><ellipse cx="0" cy="0" rx="3.6" ry="8" fill="none" stroke="#FF9A3D" stroke-width="1.4"/><path d="M-8 0 H8" stroke="#FF9A3D" stroke-width="1.4"/></g>
+  <text x="46" y="27" class="sans" font-size="14" font-weight="600" fill="#F2F2EE">Portfolio</text>
+  <text x="150" y="27" text-anchor="end" class="mono" font-size="13" fill="#FF9A3D">↗</text>
+</svg>
